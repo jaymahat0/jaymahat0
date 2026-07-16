@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaydev Mahato</h1>
 <h3 align="center">Backend Developer | Java & Spring Boot Enthusiast | B.Tech EEE @ NIT Goa</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+Microservices;Currently+building+Microleaf+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+Microservices;Currently+building+EV Charging Platform Application+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 <h2 align="left">🧑‍💻 About Me</h2>
